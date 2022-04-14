@@ -19,7 +19,7 @@
 
         <item
             android:id="@+id/contactoFragment"
-            android:icon="@drawable/ic_launcher_background"
+            android:icon="@drawable/contacto"
             android:title="Contacto" />
     </group>
 </menu>
